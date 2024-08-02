@@ -5,12 +5,12 @@
     "orientation": "portrait",
     "icons": [
       {
-        "src": "images/512.png",
+        "src": "imgs/512.png",
         "type": "image/png",
         "sizes": "512x512"
       },
       {
-        "src": "images/192.png",
+        "src": "imgs/192.png",
         "type": "image/png",
         "sizes": "192x192"
       }
